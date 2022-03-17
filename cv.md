@@ -13,7 +13,7 @@ ___
 ITStep "Software Development on Java" <br>
 RSSchool "Software Development on JavaScript"
 ___
-###Skills
+###SKILLS
  - GIT
 
  - SQL (Basic knowledge)
@@ -24,7 +24,7 @@ ___
 
  - OOP (Understanding of the basic principles)
 ___
-###Work Experience
+###WORK EXPERIENCE
 
 
 - ####UE"Motorland"  06/2019 -
@@ -41,13 +41,13 @@ Customer service specialist:	Customer service, advice, receive calls, sales of s
 Operator of the computer: Work with 1C, Microsoft Office, CRM, information search on the Internet
 ___
 
-###Languages
+###LANGUAGES
  - Russian
 
  - English
 ___
+###CODE EXAMPLE FROM CodeWars
 
-###Code example from CodeWars
 ```
 function validParentheses(parens) {
     let arr=Array.from(parens)
@@ -71,7 +71,13 @@ function validParentheses(parens) {
     else {return false}
 }
 ```
- ##My contacts
+---
+###FINISHED PROJECTS
+[Rsschool-cv](https://github.com/FeMalleN/rsschool-cv)
+
+---
+
+ ##MY CONTACTS
 ######Phone: +375(29)3380730
 
 ######E-mail: ilya.adam4yk@gmail.com
@@ -80,5 +86,7 @@ function validParentheses(parens) {
 
 ######Skype: ilya.adam4yk
 
-######Discord: Femm#0473
-CodeWars
+######Discord nickname: Femm#0473
+
+
+---
