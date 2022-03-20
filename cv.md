@@ -2,18 +2,18 @@
 
 # Ilya Adamchyk  
 
-###DESIRED POSITION
+### DESIRED POSITION
 Junior JavaScript Developer
 ___
-###EDUCATION
+### EDUCATION
 BSUIR (2020-) <br>
 Faculty: Computer networks and systems.
 ___
-###COURSES
+### COURSES
 ITStep "Software Development on Java" <br>
 RSSchool "Software Development on JavaScript"
 ___
-###SKILLS
+### SKILLS
  - GIT
 
  - SQL (Basic knowledge)
@@ -24,29 +24,29 @@ ___
 
  - OOP (Understanding of the basic principles)
 ___
-###WORK EXPERIENCE
+### WORK EXPERIENCE
 
 
-- ####UE"Motorland"  06/2019 -
+- #### UE"Motorland"  06/2019 -
 
 Quality and development specialist:   quality control of managers,storemans,servicemen
 
-- ####OOO “BELMASHMET O5”	01/2013 - 08/2018
+- #### OOO “BELMASHMET O5”	01/2013 - 08/2018
 
 Customer service specialist:	Customer service, advice, receive calls, sales of spare parts
 
 
-- ####PUE “ARHIMIR”		05/2012 – 01/2013
+- #### PUE “ARHIMIR”		05/2012 – 01/2013
 
 Operator of the computer: Work with 1C, Microsoft Office, CRM, information search on the Internet
 ___
 
-###LANGUAGES
+### LANGUAGES
  - Russian
 
  - English
 ___
-###CODE EXAMPLE FROM CodeWars
+### CODE EXAMPLE FROM CodeWars
 
 ```
 function validParentheses(parens) {
@@ -72,21 +72,21 @@ function validParentheses(parens) {
 }
 ```
 ---
-###FINISHED PROJECTS
+### FINISHED PROJECTS
 [Rsschool-cv](https://github.com/FeMalleN/rsschool-cv)
 
 ---
 
- ##MY CONTACTS
-######Phone: +375(29)3380730
+ ## MY CONTACTS
+###### Phone: +375(29)3380730
 
-######E-mail: ilya.adam4yk@gmail.com
+###### E-mail: ilya.adam4yk@gmail.com
 
-######City: Minsk
+###### City: Minsk
 
-######Skype: ilya.adam4yk
+###### Skype: ilya.adam4yk
 
-######Discord nickname: Femm#0473
+###### Discord nickname: Femm#0473
 
 
 ---
