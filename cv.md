@@ -4,14 +4,20 @@
 
 ### DESIRED POSITION
 Junior JavaScript Developer
+
+
 ___
 ### EDUCATION
 BSUIR (2020-) <br>
 Faculty: Computer networks and systems.
+
+
 ___
 ### COURSES
 ITStep "Software Development on Java" <br>
 RSSchool "Software Development on JavaScript"
+
+
 ___
 ### SKILLS
  - GIT
@@ -23,6 +29,8 @@ ___
  - Html
 
  - OOP (Understanding of the basic principles)
+
+
 ___
 ### WORK EXPERIENCE
 
@@ -45,6 +53,8 @@ ___
  - Russian
 
  - English
+
+
 ___
 ### CODE EXAMPLE FROM CodeWars
 
@@ -71,13 +81,17 @@ function validParentheses(parens) {
     else {return false}
 }
 ```
+
+
 ---
 ### FINISHED PROJECTS
 [Rsschool-cv](https://github.com/FeMalleN/rsschool-cv)
 
+
+
 ---
 
- ## MY CONTACTS
+##  MY CONTACTS
 ###### Phone: +375(29)3380730
 
 ###### E-mail: ilya.adam4yk@gmail.com
